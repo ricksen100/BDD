@@ -1,0 +1,5 @@
+projectKey=com.capg.test:SonarQube
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.capg.test:SonarQube
+ceTaskId=AWTwQnLivKzs1xCSLqrp
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWTwQnLivKzs1xCSLqrp
